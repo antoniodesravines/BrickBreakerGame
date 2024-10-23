@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mp1config" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="Mp1Driver" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\adesr\javafx-sdk-22.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.graphics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
